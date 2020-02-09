@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframePrice", "WarframePrice\WarframePrice.csproj", "{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Debug|x64.ActiveCfg = Debug|x64
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Debug|x64.Build.0 = Debug|x64
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Release|x64.ActiveCfg = Release|x64
+		{920C5BDD-1D3B-4AA1-B586-429B29C62DCB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E78E6B5-0EBF-48E3-962E-F4FF84702F37}
+	EndGlobalSection
+EndGlobal
